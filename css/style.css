@@ -1,0 +1,37 @@
+
+  .full {
+    background: url('../image/6.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height:100%;
+}
+
+.map-container{
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+  }
+  .map-container iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+  }
+
+  li a:hover {
+    background-color: #111;
+  }
+
+  body {
+    font-family: 'Noto Serif SC', serif;
+  }
+
+  .background-image1  
+{
+
+background-color: aqua;
+ }
